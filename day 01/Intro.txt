@@ -1,0 +1,22 @@
+//Prepared by Shahil Dhakal
+//BESE NCIT
+
+What is JS?
+->Lighht weight{JS doesn't have too many laguage construct(eg:print in php) that you can use for building your code.}, Object Oriented Programming Language.
+->Scripting Language
+
+
+
+Why JS??
+->To create interactive websites.
+    1.Client Side Validation
+    2.PopUp
+    3.Event on click And many more...
+
+
+
+Where is JS now??
+->Website Client Side{Js, Jquery, react js}
+->Website Server Side{Node Js,  Express Js}
+->Mobile Development{Recat Native, Phone Gap, ionic..}
+->Software Development{electron js}

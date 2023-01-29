@@ -1,0 +1,62 @@
+//Prepared by Shahil Dhakal
+//BESE NCIT
+
+#ECMA International
+Its an organization that creates standard for technologies.
+https://www.ecma-international.org/
+
+
+#ECMA 262
+Its is a standard published by ECMA International, which contains the specification for a general purpose Scripting Language.
+https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+
+
+#ECMA Script
+The specification defined in ECMA 262 for creating a general purpose scripting language is known as ECMA Script. It provides the rules, details, and guidelines that a scripting language must observe to be considered ECMA Script compliant. In simple words, it provides rules on how to make any scripting language.
+-Guideline or rule mentioned under ECMA 262.
+
+
+
+following the rule, a scripting language was made, known as JavaScript.
+
+
+
+#JavaScript
+A general purpose scripting language that conforms to the ECMA Script Specification.
+
+
+By reading ECMA Script Specification, you learn how to create a scripting language.
+By reading the JavaScript documentation, you learn how use java script.
+
+
+-Js is basically an example of ECMA Script. We can also create our own scripting language following ECMA Script.
+
+
+-JavaScript implements the ECMAScript Specification as described in ECMA-262.
+
+
+Q.)What is ES6,ES7,ES8......??
+Es 6=> ECMAScript 6
+It is the sixth edition of ECMA-262 standard, and features major changes and improvements to the ECMA Script specification.
+also known as ES6, ES2015, and ECMA Script 2015.
+ES6 is a popular one..
+
+
+####ES versions
+
+ES1 1997
+ES2 1998
+ES3 1999
+ES4- Abandoned due to lots of error.
+ES5 2009 
+
+            =>It remained for a long period. no changes was introduced after this for a long time. It was most acceptable, almost all the browser accepted ES5. But after almost 6 years, 6th edition was introduced. So 6th edition became popular in interview questions and it became a important topic that what major changes were introduced in ES6 as it came after a long interval of time, so, ES6 is popular.
+
+ES6 2015 or ECMAScript 2015(ES 2015)-6th edition[MAJOR CHANGES]
+ES7 2016 or ECMAScript 2016(ES 2016)-7th edition
+ES8 2017 or ECMAScript 2017(ES 2017)-8th edition
+ES9 2018 or ECMAScript 2018(ES 2018)-9th edition
+ES10 2019 or ECMAScript 2019(ES 2019)-10th edition
+ES11 2020 or ECMAScript 2020(ES 2020)-11th edition and so on....
+
+Q.)Why ES6 now, why not ES9??
