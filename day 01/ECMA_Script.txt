@@ -17,7 +17,7 @@ The specification defined in ECMA 262 for creating a general purpose scripting l
 
 
 
-following the rule, a scripting language was made, known as JavaScript.
+following the rule, a scripting language was developed, known as JavaScript.
 
 
 
@@ -52,6 +52,8 @@ ES5 2009
 
             =>It remained for a long period. no changes was introduced after this for a long time. It was most acceptable, almost all the browser accepted ES5. But after almost 6 years, 6th edition was introduced. So 6th edition became popular in interview questions and it became a important topic that what major changes were introduced in ES6 as it came after a long interval of time, so, ES6 is popular.
 
+            ES5 is also known as older javascript and ES6 as modern...
+
 ES6 2015 or ECMAScript 2015(ES 2015)-6th edition[MAJOR CHANGES]
 ES7 2016 or ECMAScript 2016(ES 2016)-7th edition
 ES8 2017 or ECMAScript 2017(ES 2017)-8th edition
@@ -60,3 +62,4 @@ ES10 2019 or ECMAScript 2019(ES 2019)-10th edition
 ES11 2020 or ECMAScript 2020(ES 2020)-11th edition and so on....
 
 Q.)Why ES6 now, why not ES9??
+->When ECMA Internation release any version of ecma script, company like google, firefox and etc first checks if there's any error and only implement after finalization. Similary, Any website nowadays is dynamic ie. transaction is done through website, data is store,etc so if older version is disabled when newer one is released, then the situation isn't feasible. So for above reasons, even when newer version of ECMA Script is released, older one is enabled and newer version is available only after checking error and bugging. After checking error and debugging, company like google and many more implements it.. Thats why ES^ is popular today..and even if you program in es5 it will run..

@@ -1,0 +1,10 @@
+for Js Refrence
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+MDN is the best refrence to watch browser compatibility and many more..MDN is also best refrence for html and css.
+
+For compatibility check:
+https://caniuse.com/
+
+When any new feature is released, evry browser has to implement it on its engine to run it. SO compatibility check is necessary to know if the update has been implemented by brwser.
+Tip: A good developer will use the updated versions when its implemented by most or all the browser in its engine. Becacuse if google implements any changes in march but firefox inaugust then the updated version of feature wont run in firefox in march. so a programmer may know this but a user may not!! So, consider this tip!!
