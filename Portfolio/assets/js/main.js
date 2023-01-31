@@ -1,0 +1,1 @@
+// alert("The site is under maintainence. Thanks for your visit! For any querry, please contact: contact@shail.com.np");
